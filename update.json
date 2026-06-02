@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "H8.2",
+  "versionCode": 84,
+  "versionName": "H8.4",
   "forceUpdate": false,
   "apkUrl": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/H8.2/ZygoxBilling-H8.2.apk",
   "releaseNotes": "GST fixes and performance improvements"
